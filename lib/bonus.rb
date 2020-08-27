@@ -22,9 +22,7 @@ def bonus
 
   #code your solution here:
   
-  ro = epic_tragedy["Romeo"]
-  livin = ro[:status]
-  ro << "dead"
+ bonus["Romeo"][:status] << "dead"
   
 
 
