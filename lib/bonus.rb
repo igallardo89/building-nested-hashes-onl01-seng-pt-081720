@@ -22,7 +22,8 @@ def bonus
 
   #code your solution here:
   
-  epic_tragedy["Romeo"][:status] << "dead"
+  hero["Romeo][:status] << "dead"
+  
 
   
 
